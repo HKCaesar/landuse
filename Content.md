@@ -27,5 +27,8 @@
 
 # 第十二章 再议土地规划在当今社会中的作用
 
-# 附录：学校工作的流程
+# 附录1：学校工作的流程
 [内容](https://github.com/htoooth/landuse/blob/master/workFlow.md)
+
+# 附录2：ArcMap的相关代码
+[内容](https://github.com/htoooth/arcgis_scripts)
