@@ -2,7 +2,7 @@
 
 # 前言
 
-[内容]()
+[内容](https://github.com/htoooth/landuse/blob/master/preface.md)
 
 # 第一章 土地规划的背景
 
