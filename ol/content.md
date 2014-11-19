@@ -8,7 +8,7 @@
 * 单位：上海地调院
 * 分类：土地规划的未来
 * 摘要：
-* 全文：[链接](https://github.com/htoooth/landuse/blob/master/ol/doc/2014_11_19.md)
+* 全文：[链接](https://github.com/htoooth/landuse/blob/master/ol/doc/2014_10_13.md)
 * 音频：[链接]()
 
 ## 2014年11月18日15点
