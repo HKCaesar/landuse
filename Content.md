@@ -23,7 +23,7 @@
 # 第十章 国土资源局的办事流程
 [内容](https://github.com/htoooth/landuse/blob/master/updateDB.md)
 
-# 第十一章 土地规划的工作的办事流程
+# 第十一章 土地规划的工作流程
 
 # 第十二章 再议土地规划在当今社会中的作用
 
@@ -34,7 +34,7 @@
 [内容](https://github.com/htoooth/arcgis_scripts)
 
 # 附录3：文本，图件和检查清单
-[]()
+[内容](https://github.com/htoooth/landuse/blob/master/checkList.md)
 
 # 附录4：李老师针对土规划问题讲演记录
-[]()
+[内容](https://github.com/htoooth/landuse/blob/master/ol/readme.md)
