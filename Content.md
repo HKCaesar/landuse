@@ -37,4 +37,4 @@
 [内容](https://github.com/htoooth/landuse/blob/master/checkList.md)
 
 # 附录4：李老师针对土规划问题讲演记录
-[内容](https://github.com/htoooth/landuse/blob/master/ol/readme.md)
+[内容](https://github.com/htoooth/landuse/blob/master/ol/)
