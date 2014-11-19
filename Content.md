@@ -32,3 +32,9 @@
 
 # 附录2：ArcMap的相关代码
 [内容](https://github.com/htoooth/arcgis_scripts)
+
+# 附录3：文本，图件和检查清单
+[]()
+
+# 附录4：李老师针对土规划问题讲演记录
+[]()
