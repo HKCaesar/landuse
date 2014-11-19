@@ -5,4 +5,6 @@
 ## 2014年11月18日15点
 * 题目：新北“多规合一”指引
 * 地点：新北国土局六楼会议室
-* [内容](https://github.com/htoooth/landuse/blob/master/ol/doc/2014_11_19.md)
+* 分类：土地规划现在问题
+* 摘要：
+* 全文：[链接](https://github.com/htoooth/landuse/blob/master/ol/doc/2014_11_19.md)
